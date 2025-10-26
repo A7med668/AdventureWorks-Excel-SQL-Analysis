@@ -3,7 +3,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="head.png" alt="Food Mart Dashboard Preview" width="800"/>
+  <img src="head.png" alt="AdventureWorks Database Analysis Project" width="800"/>
 </p>
 
 **A comprehensive business intelligence dashboard analyzing sales, products, and operational metrics**
